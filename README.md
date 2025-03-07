@@ -1,17 +1,39 @@
-# Pousada Jardim Amazônia - Apresentação Financeira
+# Jardim Amazônia - Relatório Confidencial
 
-Esta aplicação React apresenta dados financeiros da Pousada Jardim Amazônia, incluindo:
+## Informações Importantes
 
-- Gráfico de faturamento mensal de 2024
-- Comparação do faturamento de fevereiro 2024 vs 2025
+Este repositório contém o relatório financeiro confidencial da Pousada Jardim Amazônia. O acesso ao conteúdo é restrito somente a pessoas autorizadas.
 
-## Tecnologias Utilizadas
+## Acesso ao Relatório
 
-- React
-- Recharts (para visualização de dados)
-- TailwindCSS (para estilização)
+Para acessar o relatório, visite:
+[https://jpzank.github.io/presentation_tool](https://jpzank.github.io/presentation_tool)
 
-## Como Executar
+**Importante**: É necessária uma senha para visualizar o conteúdo. Esta senha é compartilhada apenas com a administração da pousada.
+
+A senha padrão é: `JardimAmazonia2024`
+
+## Conteúdo do Relatório
+
+O relatório contém informações confidenciais sobre:
+- Desempenho financeiro de 2024
+- Análise de alta temporada
+- Comparativo de receitas
+- Análises de segmentos específicos
+- Investimentos realizados e planejados
+
+## Estrutura do Projeto
+
+- `/src/components/GraficoFaturamento.js` - Gráfico de barras de faturamento mensal
+- `/src/components/ComparacaoFaturamento.js` - Comparação de faturamento
+- `/src/components/AltaTemporada.js` - Análise da alta temporada
+- `/src/components/HospvsDayuse.js` - Comparativo de hospedagem vs day-use
+- `/src/components/Alta&Birdwatching.js` - Relatório sobre birdwatching
+- `/src/components/Investimentos.js` - Detalhes dos investimentos
+- `/src/components/ResultadosPousada.js` - Resumo dos resultados alcançados
+- `/src/components/ConclusaoPerspectivas.js` - Conclusões e projeções futuras
+
+## Execução Local
 
 1. Certifique-se de ter o Node.js instalado
 2. Clone este repositório
@@ -25,84 +47,19 @@ Esta aplicação React apresenta dados financeiros da Pousada Jardim Amazônia, 
    ```
 5. Acesse a aplicação em [http://localhost:3000](http://localhost:3000)
 
-## Estrutura do Projeto
+## Tecnologias Utilizadas
 
-- `/src/components/GraficoFaturamento.js` - Componente com gráfico de barras de faturamento mensal
-- `/src/components/ComparacaoFaturamento.js` - Componente com comparação de faturamento
+Este relatório foi desenvolvido usando:
+- React
+- Recharts para visualizações de dados
+- TailwindCSS para estilização
 
-## Funcionalidades
+## Contato
 
-- Navegação entre slides
-- Visualização de dados em gráficos interativos
-- Design responsivo
+Para solicitar acesso ao relatório, entre em contato com:
+- Email: joaopaulozank@gmail.com
+- Responsável: João Paulo Zank
 
-# Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Aviso Legal**: A divulgação não autorizada das informações contidas neste relatório está sujeita às penalidades legais conforme legislação vigente.
