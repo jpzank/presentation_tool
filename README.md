@@ -1,3 +1,41 @@
+# Pousada Jardim Amazônia - Apresentação Financeira
+
+Esta aplicação React apresenta dados financeiros da Pousada Jardim Amazônia, incluindo:
+
+- Gráfico de faturamento mensal de 2024
+- Comparação do faturamento de fevereiro 2024 vs 2025
+
+## Tecnologias Utilizadas
+
+- React
+- Recharts (para visualização de dados)
+- TailwindCSS (para estilização)
+
+## Como Executar
+
+1. Certifique-se de ter o Node.js instalado
+2. Clone este repositório
+3. Instale as dependências:
+   ```
+   npm install
+   ```
+4. Inicie a aplicação:
+   ```
+   npm start
+   ```
+5. Acesse a aplicação em [http://localhost:3000](http://localhost:3000)
+
+## Estrutura do Projeto
+
+- `/src/components/GraficoFaturamento.js` - Componente com gráfico de barras de faturamento mensal
+- `/src/components/ComparacaoFaturamento.js` - Componente com comparação de faturamento
+
+## Funcionalidades
+
+- Navegação entre slides
+- Visualização de dados em gráficos interativos
+- Design responsivo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
